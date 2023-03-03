@@ -1,0 +1,23 @@
+{
+  "name": "Black Panther Anubis",
+  "description": "Legendart Art ",
+  "image": "ipfs://NewUriToReplace/Black Panther Anubis.png",
+  "dna": "0d1247c1896b6669a5d96acf5312f645ed4ca48d",
+
+  "attributes": [
+  
+    {
+      "trait_type": "Skin Tones",
+      "value": "Green Lizard"
+    },
+    {
+      "trait_type": "Neck Asset",
+      "value": "Diamond Neckless"
+    },
+    {
+      "trait_type": "Hand Weapon",
+      "value": "Killing Batt"
+    }
+    
+  ]
+}
